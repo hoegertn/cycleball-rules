@@ -264,8 +264,7 @@ a) Die Spielfeldmarkierungen sind neutral.
 b) Die Spieler dürfen den Ball durch Schläge mit den Rädern ins gegnerische Tor treiben, eine Hand muss sich dabei am Lenker befinden und ein Fuss auf dem Pedal. Ist dies nicht der Fall, ist das erzielte Tor ungültig. In diesem Fall führt die Aktion auch zu keinem 4-Meter oder Eckball. Das Spiel muss dann mit einem Ausball von der rechten Eckmarkierung fortgesetzt werden.
 Das Abprallen des Balles vom Rad oder Körper eines Spielers ist daher als gültiger Schlag zu werten. Kopfbälle sind zulässig.
 
-c) Das Behindern des Gegners (absichtliches Anfahren, Stoßen, Festhalten oder Anfassen), das Stützen an den Torpfosten oder eine Wand, das Abstützen des Mitspielers mit den Händen oder dem Körper, lautes Rufen (innerhalb der Mannschaft, vom und zum Betreuer, gegenüber dem Gegner oder anderen Personen), Reklamieren (gegenüber dem Partner, Gegner, Kommissär, Kampfgericht, Betreuer oder Zuschauer) gelten als Verstöße gegen die Regeln und werden bestraft.
-
+c) Das Behindern des Gegners (absichtliches Anfahren, Stoßen, Festhalten oder Anfassen), das Stützen an den Torpfosten oder eine Wand, das Abstützen des Mitspielers mit den Händen oder dem Körper, lautes Rufen (innerhalb der Mannschaft, vom und zum Betreuer, gegenüber dem Gegner oder anderen Personen), Reklamieren (gegenüber dem Partner, Gegner, Kommissär, Kampfgericht, Betreuer oder Zuschauer) gelten als Verstöße gegen die Regeln und werden bestraft.  
 Bewegt sich ein Spieler der angreifenden Mannschaft, ohne den Ball zu besitzen, aktiv in den direkten Weg des Verteidigers, der in Richtung Ball fährt und behindert diesen dadurch, liegt ein Sperren vor, das zu einem Freischlag führt.
 
 d) Es darf immer nur der Ball und nicht der Gegner oder dessen Rad angegriffen werden. Ein Spieler, der den Ball neben seinem Rad hat, darf demnach nur von der Ballseite her angegriffen werden.
