@@ -1,6 +1,6 @@
 # UCI - CCS Internationales Reglement für Zweier-Radball
 
-Gültig ab 01. Januar 2018
+Gültig ab 01. Januar 2026
 
 - **UCI** — Union Cycliste Internationale
 - **CCS** — UCI - Commission de Cyclisme en Salle / UCI - Hallenradsport-Kommission
@@ -48,6 +48,7 @@ Gültig ab 01. Januar 2018
 - [Anhang 1: Handzeichen Kommissäre 2er Radball](#anhang-1-handzeichen-kommissäre-2er-radball)
 - [Anhang 2: Klassifizierung von Turnieren](#anhang-2-klassifizierung-von-turnieren)
 - [Anhang 3: Weltmeisterschaften](#anhang-3-weltmeisterschaften)
+- [Anhang 4: UCI Radball-Weltcup](#anhang-4-uci-radball-weltcup)
 
 ---
 
@@ -61,24 +62,17 @@ Es spielen zwei Mannschaften mit je zwei Spielern gegeneinander.
 
 ### 1.2 Kampfgerichte
 
-a) Für die Durchführung der Radball-Wettbewerbe sind Kampfgerichte erforderlich, die mindestens aus einem Kommissär, einem Zeitnehmer und einem Schriftführer bestehen.
-Es können auch mehrere Kommissäre, sowie Spielbeobachter eingesetzt werden.
-Spielbeobachter müssen lizenzierte Kommissäre sein.
+a) Für die Durchführung der Radball-Wettbewerbe müssen mindestens zwei Kommissäre mit gleichen Befugnissen auf dem Spielfeld sein. Dazu mindestens ein Zeitnehmer und ein Schriftführer am Kampfgericht.
 
 b) Wenn kein Chief-Kommissär eingesetzt wurde, muss einer der Kommissäre als Chief-Kommissär bestimmt werden.
 Er ist für die ordnungsgemäße Durchführung des gesamten Spieltages oder Turniers verantwortlich.
 
-c) Der Kommissär ist für die reglementgemäße Durchführung des Spieles verantwortlich.
+c) Die Kommissäre sind für die reglementgemäße Durchführung des Spieles verantwortlich.
 
-d) Die Spielbeobachter haben die Aufgabe, die Spielhandlungen auf dem Spielfeld laufend zu verfolgen. Die Spielbeobachter sitzen auf Höhe der Torauslinie, diagonal gegenüber der Coachingzone (Betreuer).
-Kommissär und Spielbeobachter stellen die Kommunikation sicher und verwenden, wenn notwendig, dazu Handzeichen.
-Der Kommissär kann den Spielbeobachter befragen.
-
-e) Der Zeitnehmer hat die Aufgabe, die Spielzeit festzuhalten, das Spiel bei Halbzeit und am Ende deutlich abzupfeifen, nach Angaben des Kommissärs die Zeit anzuhalten.
-Die Zeitangabe des Zeitnehmers ist entscheidend.
+d) Der Zeitnehmer hat die Aufgabe, die Spielzeit festzuhalten, das Spiel bei Halbzeit und am Ende deutlich abzupfeifen oder dies mittels eines lauten Tons (Horn) bekannt zu geben, nach Angaben des Kommissärs die Zeit anzuhalten. Die Zeitangabe des Zeitnehmers ist entscheidend.
 Er hat bei Halbzeit die Pausenzeit zu beobachten. Signal nach 1'45".
 
-f) Der Schriftführer notiert die erzielten Tore und führt die Ergebnislisten. Der Schriftführer oder ein Sprecher gibt die Resultate und weitere Informationen bekannt.
+e) Der Schriftführer notiert die erzielten Tore und führt die Ergebnislisten. Der Schriftführer oder ein Sprecher gibt die Resultate und weitere Informationen bekannt.
 
 ### 1.3 Spielfeld und Spielfeldgröße
 
@@ -125,14 +119,13 @@ Auf der schraffierten Fläche ist Bodenwerbung gestattet, die Bodenbeschaffenhei
 - Strafschlagmarke: im Strafraum
 - Torauslinie: hinter dem Tor
 - Coachingzone: 2,00 m hinter der Torauslinie
-- Spielbeobachter: diagonal gegenüber der Coachingzone
-- Spielfeldeinfassung: Höhe 30 cm / 60°
+- Spielfeldeinfassung: Höhe 30 cm / 65-70°
 
 ### 1.6 Tore
 
 a) Die lichte Weite beträgt 2 x 2 m. Der Rohrdurchmesser liegt zwischen 3 - 5 cm.
 
-b) Die Tore sind mit einem Tornetz (kein Drahtgeflecht) zu versehen. Die Maschengröße muss so sein, dass der Ball nicht durchgehen kann.
+b) Die Tore sind mit einem Tornetz (kein Drahtgeflecht) zu versehen. Die Maschengröße muss so sein, dass der Ball gestoppt wird.
 Bei der Befestigung der Netze ist eine Verletzungsgefahr zu vermeiden. (Kabelbinder)
 
 c) Die Tore dürfen am Boden nicht fest verankert werden.
@@ -232,7 +225,7 @@ a) Es wird in den folgenden Altersklassen gespielt:
 | Jugendklasse | bis 16 Jahre | U 17 |
 | Juniorenklasse | bis 18 Jahre | U 19 |
 | Eliteklasse | ab 19 Jahre | Elite |
-| Jungamateure | bis 22 Jahre | U 23 |
+| Junge Eliteklasse | bis 23 Jahre | U 23 |
 
 Die Klasse bezieht sich auf den Jahrgang, d.h. in dem Jahr, in welchem ein Spieler z.B. 18 Jahre alt wird, darf dieser das ganze Jahr in der Juniorenklasse U 19 spielen.
 Die Altersklassen können von den Nationalverbänden weiter unterteilt oder bei kleiner Beteiligung zusammengefasst werden.
@@ -243,12 +236,12 @@ b) Die Spielzeiten betragen in den verschiedenen Altersklassen:
 |--------|-----------|
 | Elite / U 23 | 2 x 7 Min. |
 | Junioren U 19 | 2 x 6 Min. |
-| Jugend/Schüler U 17/U15 | 2 x 5 Min. |
+| U11/U13/U15/U17 | 2 x 5 Min. |
 
 Die Spielzeiten können bei Turnieren oder Gruppenspielen bis auf 2 x 5 Min. reduziert werden.
 Die Spielzeiten verstehen sich immer mit zwei Halbzeiten und einem Seitenwechsel (zwei Minuten).
 
-c) Die Spielzeiten der Entscheidungsspiele dauern jeweils eine Halbzeit (ohne Seitenwechsel) 1 x 7, 1 x 6, 1 x 5 Min. (wie Normalspielzeit).
+c) Die Spielzeiten der Entscheidungsspiele dauern jeweils eine Halbzeit (ohne Seitenwechsel) 1 x 7, 1 x 6, 1 x 5 Min. (wie Normalspielzeit). Ein Entscheidungsspiel wird mit einem Neutralball begonnen.
 
 d) Die Zeit beim Seitenwechsel darf zwei Minuten nicht überschreiten. Verstöße hiergegen sind, nach zweimaliger Aufforderung, mit einer Verwarnung der betreffenden Mannschaft (beide Spieler) zu ahnden. Leisten die Spieler der Aufforderung trotzdem keine Folge, wird eine zweite Verwarnung ausgesprochen und somit das Spiel abgebrochen.
 
@@ -270,10 +263,12 @@ Ist nach dem Abpfiff des Zeitnehmers noch ein Schlag nötig, wird dieser noch au
 
 a) Die Spielfeldmarkierungen sind neutral.
 
-b) Die Spieler dürfen den Ball durch Schläge mit den Rädern ins gegnerische Tor treiben, eine Hand muss sich dabei am Lenker befinden und ein Fuss auf der Pedale. Wenn nicht, ist das erzielte Tor ungültig. In diesem Fall führt die Aktion auch zu keinem 4 Meter oder Eckball.
+b) Die Spieler dürfen den Ball durch Schläge mit den Rädern ins gegnerische Tor treiben, eine Hand muss sich dabei am Lenker befinden und ein Fuss auf dem Pedal. Ist dies nicht der Fall, ist das erzielte Tor ungültig. In diesem Fall führt die Aktion auch zu keinem 4-Meter oder Eckball. Das Spiel muss dann mit einem Ausball von der rechten Eckmarkierung fortgesetzt werden.
 Das Abprallen des Balles vom Rad oder Körper eines Spielers ist daher als gültiger Schlag zu werten. Kopfbälle sind zulässig.
 
 c) Das Behindern des Gegners (absichtliches Anfahren, Stoßen, Festhalten oder Anfassen), das Stützen an den Torpfosten oder eine Wand, das Abstützen des Mitspielers mit den Händen oder dem Körper, lautes Rufen (innerhalb der Mannschaft, vom und zum Betreuer, gegenüber dem Gegner oder anderen Personen), Reklamieren (gegenüber dem Partner, Gegner, Kommissär, Kampfgericht, Betreuer oder Zuschauer) gelten als Verstöße gegen die Regeln und werden bestraft.
+
+Bewegt sich ein Spieler der angreifenden Mannschaft, ohne den Ball zu besitzen, aktiv in den direkten Weg des Verteidigers, der in Richtung Ball fährt und behindert diesen dadurch, liegt ein Sperren vor, das zu einem Freischlag führt.
 
 d) Es darf immer nur der Ball und nicht der Gegner oder dessen Rad angegriffen werden. Ein Spieler, der den Ball neben seinem Rad hat, darf demnach nur von der Ballseite her angegriffen werden.
 
@@ -288,7 +283,7 @@ h) **Coachingzone:**
 Nur zwei verantwortliche Mannschaftsbetreuer dürfen während der laufenden Spielzeit außerhalb der Spielfeldeinfassung in der Coachingzone (Skizze 1.5c) auf den Stühlen sitzen.
 
 i) **Spielverzögerung:**
-Stellt der Kommissär fest, dass eine Mannschaft versucht, das Spiel durch Ballhalten zu verzögern, signalisiert er durch Handzeichen (siehe Bild 4) so lange es die Spielsituation erfordert und der Spielaufforderung „play", dass er die Spielverzögerung in ca. 20 Sekunden ahnden wird. Spielt die Mannschaft jedoch so weiter, ohne einen Abschlussversuch zu unternehmen, liegt ein Regelverstoß vor, der mit einem Freischlag vom Mittelpunkt geahndet wird.
+Stellt ein Kommissär fest, dass eine Mannschaft versucht, das Spiel durch Ballhalten zu verzögern, signalisiert er dies durch Handzeichen (siehe Bild 4), so lange es die Spielsituation erfordert, und durch die Spielaufforderung „play" oder „spielen", dass er die Spielverzögerung in ca. 20 Sekunden ahnden wird. Spielt die Mannschaft jedoch so weiter, ohne einen Abschlussversuch zu unternehmen, liegt ein Regelverstoß vor, der mit einem Freischlag vom Mittelpunkt geahndet wird.
 
 ### 2.1 Anspielrecht
 
@@ -338,7 +333,7 @@ Die Spieler müssen sich außerhalb des Mittelkreises aufstellen und dürfen ers
 
 ### 2.4 Vorteilregel
 
-Da ein gegen die Regeln verstoßender Spieler niemals einen Vorteil aus seinem Verstoß haben darf, kann der Kommissär die Unterbrechung unterlassen, wenn trotz des Regelverstoßes die Gegenmannschaft klar im Vorteil bleibt oder kommt. Wenn ein Vorteil erkannt wird, hat der Kommissär dies durch Handzeichen (siehe Bild 2, Vorteil) und der Aufforderung „go on" anzuzeigen.
+Da ein gegen die Regeln verstoßender Spieler niemals einen Vorteil aus seinem Verstoß haben darf, kann der Kommissär die Unterbrechung unterlassen, wenn trotz des Regelverstoßes die Gegenmannschaft klar im Vorteil bleibt oder kommt. Wenn ein Vorteil erkannt wird, hat der Kommissär dies durch Handzeichen (siehe Bild 2) und der Aufforderung „go on" oder „Vorteil" anzuzeigen.
 Ein gegebener Vorteil kann innerhalb derselben Spielsituation zurückgenommen werden.
 
 ### 2.5 Torauslinienfahren / Spielberechtigung holen
@@ -366,7 +361,7 @@ b) Wird ein Tor während des Spiels von seinem regulären Standort verschoben un
 
 c) Ein Schlag oder Ablenken des Balles ins eigene Tor zählt immer zugunsten des Gegners.
 
-d) Nach einem ungültigen oder aberkannten Tor ist der Ball auf die rechte Abschlagmarke zu legen und wird von dort weitergespielt. (Bild 5)
+d) Nach einem ungültigen oder aberkannten Tor ist der Ball auf die rechte Abschlagmarke zu legen und wird von der verteidigenden Mannschaft weitergespielt. (Bild 5)
 
 ### 2.7 Ausball
 
@@ -431,7 +426,7 @@ d) Wird vom Kommissär ein Regelverstoß erkannt, so ist dieser Verstoß mit ein
 
 e) Befinden sich beide Spieler der angreifenden Mannschaft im gegnerischen Strafraum, auch wenn der Ball darin liegt, ist ebenfalls auf Freischlag von der Strafraumlinie zu erkennen. Der Ball wird nach dem Anpfiff des Kommissärs von einem Spieler der Tor verteidigenden Mannschaft angeschlagen. Der Ball darf vom Anspielenden nur einmal berührt werden.
 
-f. Dabei gehört der Torraum ebenfalls zum Strafraum.
+f) Dabei gehört der Torraum ebenfalls zum Strafraum.
 
 ### 2.11 Freischlag
 
@@ -453,44 +448,42 @@ Für regelwidrige Abwehr des Torverteidigers ist ein 4 m Ball zu verhängen.
 
 ### 2.12 4m Ball
 
-Der 4m Ball ist die Strafe für:
+Der 4-Meter Ball ist die Strafe für Regelverstöße, die im eigenen Strafraum begangen worden sind.
 
-a) **Regelverstöße, die im eigenen Strafraum begangen worden sind:**
+Ein Spieler befindet sich im Strafraum, sobald er mit einem Teil des Rades oder Körpers den Boden im Strafraum berührt. Auch wenn er während einer Berührung des Strafraumes einen Regelverstoß außerhalb des Strafraumes begeht, gibt es einen 4-Meter Ball.
 
-Ein Spieler befindet sich im Strafraum, sobald er mit einem Teil des Rades oder Körpers den Boden im Strafraum berührt. Auch wenn er während einer Berührung des Strafraumes einen Regelverstoß außerhalb des Strafraumes begeht, gibt es einen 4m Ball.
+Folgende Regelverstöße außerhalb des eigenen Strafraumes führen zu einem 4-Meter:
 
-b) **Für folgende Regelverstöße außerhalb des eigenen Strafraumes:**
+1. Wenn ein Spieler einen Gegenspieler durch einen rücksichtslosen Regelverstoß, ohne die Möglichkeit, den Ball zu spielen, foult, um dadurch einen möglichen Torerfolg zu verhindern. (zB: Foulspiel am nicht-ballführenden Spieler)
 
-1. Wenn ein Spieler einen Gegenspieler durch einen groben Regelverstoß behindert, ihn z.B. umfährt oder vom Rade reißt.
-
-2. Wenn ein nicht mehr spielberechtigter Spieler bewusst den „sicheren Stand" verlässt und einen Gegenspieler oder den Ball durch gehen, laufen, springen oder fahren behindert oder zurückhält. Das gleiche gilt bei einem Regelverstoss mit dem Rad.
+2. Wenn ein nicht mehr spielberechtigter Spieler bewusst den „sicheren Stand" verlässt und einen Gegenspieler oder den Ball durch gehen, laufen, springen oder fahren behindert oder zurückhält. Das gleiche gilt bei einem Regelverstoß mit dem Rad.
 
 3. Absichtliches Handspiel außerhalb des Strafraums.
 
 4. Absichtliches wegziehen oder verschieben des Tores durch Spieler oder Betreuer.
 
-5. Wenn sich ein Spieler vom Rad trennt und absichtlich den Ball festhält/abwehrt oder den Gegner behindert.
+5. Wenn sich ein Spieler vom Rad trennt und absichtlich den Ball festhält, abwehrt oder den Gegner behindert.
 
 6. Wenn ein Spieler einschussbereit vor dem leeren gegnerischen Tor gefoult wird.
 
-c) Beim 4m Ball haben sich außer dem Torverteidiger und dem Schießenden alle Spieler hinter der 4m Ballmarke aufzuhalten. Nach Anpfiff muss der Ball direkt auf das Tor geschossen werden. Die beiden unbeteiligten Spieler dürfen hierbei in keiner Weise, störend oder täuschend beteiligt sein.
-Der Gegenspieler muss einen Abstand von 4 m zum 4 m Punkt einhalten und darf sich nur auf der gegenüberliegenden Spielfeldseite zur Anfahrtsstrecke des Schützen aufhalten. Die beiden nicht beteiligten Spieler dürfen erst nach dem Berühren des Balles wieder ins Spiel eingreifen.
-Begeht der zweite abwehrende Spieler einen Verstoß gegen diese Regeln, wird eine Wiederholung des 4m Balls ausgesprochen.
-Begeht der zweite Spieler der 4 m Ball - ausführenden Mannschaft einen Regelverstoß, wird ein Freischlag gegen ihn ausgesprochen.
+c) Beim 4-Meter Ball haben sich außer dem Torverteidiger und dem Schießenden alle Spieler hinter der 4-Meter Ballmarke aufzuhalten. Nach Anpfiff muss der Ball direkt auf das Tor geschossen werden. Die beiden unbeteiligten Spieler dürfen hierbei in keiner Weise, störend oder täuschend beteiligt sein.
+Der Gegenspieler muss einen Abstand von 4 Meter zum 4-Meter Punkt einhalten und darf sich nur auf der gegenüberliegenden Spielfeldseite zur Anfahrtsstrecke des Schützen aufhalten. Die beiden nicht beteiligten Spieler dürfen erst nach dem Berühren des Balles wieder ins Spiel eingreifen.
+Begeht der zweite abwehrende Spieler einen Verstoß gegen diese Regeln, wird eine Wiederholung des 4-Meter Balls ausgesprochen.
+Begeht der zweite Spieler der 4-Meter-Ball-ausführenden Mannschaft einen Regelverstoß, wird ein Freischlag gegen ihn ausgesprochen.
 
-d) Ein 4m Ball darf nur einmal angeschlagen werden und muss direkt aufs Tor geschlagen werden.
-Das Vorbeifahren und Abstoppen beim Anfahren zum 4 m Punkt ist nicht erlaubt.
+d) Ein 4-Meter Ball darf nur einmal angeschlagen werden und muss direkt aufs Tor geschlagen werden.
+Das Vorbeifahren und Abstoppen beim Anfahren zum 4-Meter Punkt ist nicht erlaubt.
 Verstöße werden mit einem Freischlag geahndet.
 Das Zurückprallen des Balles vom Torgehäuse berechtigt nicht zu einem zweiten Schlag.
 
-e) Das Abwehren des 4 m Balls hat so zu erfolgen, dass sich der Torverteidiger vor dem Anpfiff mit dem Vorder- und Hinterrad unmittelbar neben der Torlinie, maximal 15 cm davor, parallel zur Torlinie, aufstellt. Diese Position darf er erst verlassen, wenn der 4 m Ball angeschlagen worden ist.
-Bei einem Verstoß hiergegen muss der 4 m Ball wiederholt werden.
+e) Das Abwehren des 4-Meter Balls hat so zu erfolgen, dass sich der Torverteidiger vor dem Anpfiff mit dem Vorder- und Hinterrad unmittelbar neben der Torlinie, maximal 15 cm davor, parallel zur Torlinie, aufstellt. Diese Position darf er erst verlassen, wenn der 4-Meter Ball angeschlagen worden ist.
+Bei einem Verstoß hiergegen muss der 4-Meter Ball wiederholt werden.
 
-f) Ein 4m Ball muss auch noch ausgeführt werden, wenn die Spielzeit bei Halbzeit oder Spielende abgelaufen ist. Kommt der Schlusspfiff vor der Ausführung des 4 m Balls, muss der Kommissär diesen 4m Ball noch anpfeifen, wenn der Torhüter bereit ist. Kommt der Schlusspfiff im Moment, da der Ball im Flug ist, aber die Torlinie noch nicht überschritten hat, ist es kein Tor und der 4 m Ball wird nicht mehr wiederholt.
-Kommt es noch zu einem 4m Ball nach der abgelaufenen Zeit, kann dieser nur zu einem Tor führen, wenn der Ball ohne Beeinflussung durch die nicht am 4 m Ball beteiligten Spieler ins Tor geht. Als am 4 m Ball beteiligt gelten nur der 4 m Ball - schlagende und der gegnerische Torhüter. Einen zweiten Schlag nach einem Abpraller darf der schlagende Spieler nicht ausführen.
-Ein nach der Zeit ausgeführter und korrekt abgewehrter 4 m Ball, welcher über die Torauslinie geht, ergibt keinen Eckball mehr.
-Bei regelwidriger Abwehr ist der 4 m Ball, falls kein Tor erzielt wurde, zu wiederholen.
-Bei nicht korrektem Ausüben des 4 m Balls, z.B. Abstoppen usw. bei einem nach der abgelaufenen Zeit ausgeführten 4 m Ball gibt es keine weitere Sanktion gegen den 4 m Ball-Ausführenden. Der 4 m Ball wird somit nicht mehr ausgeführt, das Spiel ist zu Ende.
+f) Ein 4m Ball muss auch noch ausgeführt werden, wenn die Spielzeit bei Halbzeit oder Spielende abgelaufen ist. Kommt der Schlusspfiff vor der Ausführung des 4-Meter Balls, muss der Kommissär diesen 4-Meter Ball noch anpfeifen, wenn der Torhüter bereit ist. Kommt der Schlusspfiff im Moment, da der Ball im Flug ist, aber die Torlinie noch nicht überschritten hat, ist es kein Tor und der 4-Meter Ball wird nicht mehr wiederholt.
+Kommt es noch zu einem 4-Meter Ball nach der abgelaufenen Zeit, kann dieser nur zu einem Tor führen, wenn der Ball ohne Beeinflussung durch die nicht am 4-Meter Ball beteiligten Spieler ins Tor geht. Als am 4-Meter Ball beteiligt gelten nur der 4-Meter Ball schlagende und der gegnerische Torhüter. Einen zweiten Schlag nach einem Abpraller darf der schlagende Spieler nicht ausführen.
+Ein nach der Zeit ausgeführter und korrekt abgewehrter 4-Meter Ball, welcher über die Torauslinie geht, ergibt keinen Eckball mehr.
+Bei regelwidriger Abwehr ist der 4-Meter Ball, falls kein Tor erzielt wurde, zu wiederholen.
+Bei nicht korrektem Ausüben des 4-Meter Balls, z.B. Abstoppen usw. bei einem nach der abgelaufenen Zeit ausgeführten 4-Meter Ball gibt es keine weitere Sanktion gegen den 4-Meter Ball-Ausführenden. Der 4-Meter Ball wird somit nicht mehr ausgeführt, das Spiel ist zu Ende.
 
 ### 2.13 Pfeifsignale
 
@@ -530,12 +523,12 @@ Das Spiel wird für die betroffene Mannschaft mit 0:5 Toren gewertet, sofern das
 
 e) Bei groben Unsportlichkeiten ist dem betreffenden Spieler ohne vorherige Ermahnung oder Verwarnung sofort die "Rote Karte" zu zeigen.
 
-Grobe Unsportlichkeit liegt z.B. vor bei:
-- Wenn ein noch spielberechtigter Spieler einen Gegenspieler durch einen groben Regelverstoß behindert, ihn z.B. umfährt oder vom Rade reißt "Notbremse-Foul."
+Grobe Unsportlichkeit liegt z.B. vor:
+- Wenn ein Spieler ein Foulspiel, ohne Aussicht auf den Ball, mit übertriebener Härte begeht und damit willentlich eine Verletzung des Gegenspielers in Kauf nimmt.
 - Tätlichkeiten gegenüber Spieler, Funktionäre oder Zuschauer.
-- Kommissär Beleidigung.
-- Werfen oder Schlagen des Balles gegen den Kommissär.
-- Absichtliches Anfahren oder Anrempeln des Kommissärs.
+- Ein Kommissär wird beleidigt.
+- Werfen oder Schlagen des Balles gegen einen Kommissär.
+- Absichtliches Anfahren oder Anrempeln eines Kommissärs.
 
 Das abgebrochene Spiel wird für die betroffene Mannschaft mit 0:5 Toren gewertet, wenn nicht das Resultat zu diesem Zeitpunkt schon günstiger für den Gegner stand.
 
@@ -567,11 +560,11 @@ i) Scheidet eine Mannschaft wegen Verletzung, Erkrankung oder mangels eines Ersa
 
 j) **Vorgehen bei Verletzungen:**
 
-Wenn ein Spieler eine Verletzung durch hochhalten Arm anzeigt, kann der Kommissär das Spiel unterbrechen.
+Wenn ein Spieler eine Verletzung durch Hochhalten des Armes anzeigt, kann der Kommissär das Spiel unterbrechen.
 
-Erkennt dieser die Verletzung nicht eindeutig, kann er durch hochhalten des Armes anzeigen, dass er das Zeichen des Spielers wahrgenommen hat, muss aber nicht zwingend das Spiel unterbrechen. Der Kommissär muss beurteilen, inwieweit die angezeigte Verletzung nicht nur vorgetäuscht ist, z.B. wenn ein Raddefekt beim Spieler vorliegt. In diesem Fall wird das Spiel nicht unterbrochen.
+Erkennt dieser die Verletzung nicht eindeutig, kann er durch Hochhalten des Armes anzeigen, dass er das Zeichen des Spielers wahrgenommen hat, muss aber nicht zwingend das Spiel unterbrechen. Der Kommissär muss beurteilen, inwieweit die angezeigte Verletzung nicht nur vorgetäuscht ist, z.B. wenn ein Raddefekt beim Spieler vorliegt. In diesem Fall wird das Spiel nicht unterbrochen.
 
-Vermutet der Kommissär eine Verletzung, unterbricht er das Spiel, lässt die Zeit anhalten, gibt einem Betreuer und/oder Arzt das Zeichen, dass diese jetzt die Spielfläche betreten darf.
+Vermutet der Kommissär eine Verletzung, unterbricht er das Spiel, lässt die Zeit anhalten, gibt einem Betreuer und/oder Arzt das Zeichen, dass diese jetzt die Spielfläche betreten dürfen.
 
 Es dürfen immer nur ein Betreuer und der Arzt sowie Sanitäter die Spielfläche betreten.
 
@@ -579,7 +572,7 @@ Betreten der Betreuer oder der Arzt die Spielfläche bevor der Kommissär das Ze
 
 Während verletzungsbedingten Unterbrechungen können die Räder ausgetauscht und hinter der Bande (Coachingzone) repariert werden.
 
-Die Spielbeobachter (Kommissäre an der Torlinie) haben diese Vorgänge genau zu verfolgen, um etwaige Unregelmäßigkeiten anzuzeigen oder klären zu können.
+Die Kommissäre haben diese Vorgänge genau zu verfolgen, um etwaige Unregelmäßigkeiten anzuzeigen oder klären zu können.
 
 Sollte die Verletzung so schwerwiegend sein, dass der Spieler die Spielfläche verlassen muss, so hat sich ein Ersatzspieler bereit zu halten. Das Spiel muss nach der erlaubten Unterbrechungszeit (5 Minuten) mit dem Ersatzspieler fortgesetzt werden. In besonderen Fällen kann der Kommissär die Unterbrechungszeit auf 10 Minuten verlängern.
 
@@ -675,7 +668,7 @@ Ist nach dem 4 m - Schießen noch keine Entscheidung gefallen, wird es um je ein
 
 ### 3.5 Einsprüche / UCI-Reglement
 
-a) Einsprüche gegen Tatsachen- oder Ermessensentscheidungen des Kommissärs können nicht eingelegt werden.
+a) Einsprüche gegen Tatsachen- oder Ermessensentscheidungen der Kommissäre können nicht eingelegt werden.
 Ebenso können keine Einsprüche gemacht werden gegen die Einteilung der Kommissäre.
 
 b) Einsprüche gegen die Serien- oder Gruppeneinteilung, den Spielplan oder die Spielfolge müssen sofort nach Erhalt desselben eingereicht werden.
@@ -690,7 +683,6 @@ c) Einsprüche gegen das Spielfeld, den Ball, die Tore usw., müssen vor dem Spi
 |------|-----------|
 | Bild 1 | Tor (Kommissär zeigt mit ausgestrecktem Arm auf den Mittelpunkt) |
 | Bild 2 | Vorteil (Arm nach oben gestreckt) |
-| Bild 3 | Abstand (nicht mehr verwendet) |
 | Bild 4 | Spielverzögerung (Hand nach oben gestreckt) |
 | Bild 5 | Ungültiges Tor (Hand seitlich wischend) |
 | Bild 6 | Time out (Hände über dem Kopf zu einem T geformt) |
@@ -725,49 +717,51 @@ Hinweis: Wenn der Veranstalter nicht in der Lage ist, die Teilnahme von zwei Nat
 
 ### 2. UCI Ranglisten
 
-a) Es wird eine Klassifizierung für Radball-Teams in den höchsten nationalen Ligen festgelegt. Die UCI ist alleiniger Eigentümer dieser Klassifizierungen.
+a) Die UCI-Rangliste wird berechnet, indem alle Punkte addiert werden, die die Mannschaften bei den aufgeführten Veranstaltungen erzielt haben:
 
-(Artikel eingeführt am 1.01.05)
+1. Weltmeisterschaften / World Championships (CM)
+2. Weltcups / World Cup events (CDM)
 
-b) Die Klassifikationen werden jeweils am 30. Juni, 30. September, 30. November und 31. Dezember veröffentlicht.
+Punkte werden an die Fahrer vergeben und dem Team zugerechnet, in dem sie registriert sind. Wenn zwei Fahrer aus verschiedenen Teams gemeinsam Punkte erzielen, werden die Punkte gleichmäßig aufgeteilt, wobei jeder Fahrer 50% der Gesamtpunkte für sein jeweiliges Team erhält.
 
-(Artikel eingeführt am 1.01.05)
+Punkte können nur an Mannschaften der Elite-Klasse vergeben werden. Für Mannschaften der Altersklassen U15, und/oder U17 und/oder U19 können keine Punkte vergeben werden.
+Die UCI ist alleiniger Eigentümer dieser Rangliste.
 
-c) Die nationalen Verbände und Organisatoren verpflichten sich sämtliche relevanten Ergebnisse sofort der UCI zu melden.
+b) Die UCI-Rangliste wird mindestens einmal pro Woche erstellt. Falls erforderlich, wird die Klassifikation der vorhergehenden Wochen korrigiert.
+
+c) Die nationalen Verbände oder der Präsident des Kommissärsgremiums sind verpflichtet, die Ergebnisse gemäß dem UCI DataRide-Verfahren für die jeweilige Disziplin zu übermitteln.
 Jeder nationale Verband muss die UCI unverzüglich über jede Massnahme oder Entscheidung informieren, die zu einer Änderung der erzielten Punkte führt.
-Im Falle einer Unterlassung kann der UCI-Verwaltungsausschuss die betreffende Veranstaltung herabstufen oder aus dem Kalender ausschliessen, abgesehen von weiteren Sanktionen die den Vorschriften entsprechend anwendbar sind.
+Im Falle einer Unterlassung kann der UCI-Verwaltungsausschuss die betreffende Veranstaltung herabstufen oder aus dem Kalender ausschließen, abgesehen von weiteren Sanktionen die den Vorschriften entsprechend anwendbar sind.
 
-(Artikel eingeführt am 1.01.05; Text geändert am 1.01.13)
+d) **Punkteliste:**
 
-d) **Punkte Skala** (eingeführt am 01.01.05)**:**
-
-| Platz | World Championships | UCI A Events, World Cup | Continental Championships and cups | UCI B Events, National Championships |
-|-------|--------------------|-----------------------|-----------------------------------|-------------------------------------|
-| 1 | 60 | 50 | 40 | 30 |
-| 2 | 55 | 45 | 35 | 25 |
-| 3 | 50 | 40 | 30 | 20 |
-| 4 | 45 | 35 | 25 | 18 |
-| 5 | 40 | 30 | 20 | 16 |
-| 6 | 35 | 25 | 18 | 14 |
-| 7 | 32 | 20 | 16 | 12 |
-| 8 | 29 | 18 | 14 | 10 |
-| 9 | 26 | 16 | 12 | 8 |
-| 10 | 23 | 14 | 10 | 6 |
-| 11 | 20 | 12 | 8 | |
-| 12 | 18 | 10 | 6 | |
-| 13 | 16 | 8 | 4 | |
-| 14 | 14 | 6 | 2 | |
-| 15 | 12 | 4 | 1 | |
-| 16 | 10 | | | |
-| 17 | 9 | | | |
-| 18 | 8 | | | |
-| 19 | 7 | | | |
-| 20 | 6 | | | |
-| 21 | 5 | | | |
-| 22 | 4 | | | |
-| 23 | 3 | | | |
-| 24 | 2 | | | |
-| 25 | 1 | | | |
+| Platz | World Championship | World Cup |
+|-------|-------------------|-----------|
+| 1 | 60 | 50 |
+| 2 | 55 | 45 |
+| 3 | 50 | 40 |
+| 4 | 45 | 35 |
+| 5 | 40 | 30 |
+| 6 | 35 | 25 |
+| 7 | 32 | 20 |
+| 8 | 29 | 18 |
+| 9 | 26 | 16 |
+| 10 | 23 | 14 |
+| 11 | 20 | 12 |
+| 12 | 18 | 10 |
+| 13 | 16 | 8 |
+| 14 | 14 | 6 |
+| 15 | 12 | 4 |
+| 16 | 10 | |
+| 17 | 9 | |
+| 18 | 8 | |
+| 19 | 7 | |
+| 20 | 6 | |
+| 21 | 5 | |
+| 22 | 4 | |
+| 23 | 3 | |
+| 24 | 2 | |
+| 25 | 1 | |
 
 ---
 
@@ -775,42 +769,227 @@ d) **Punkte Skala** (eingeführt am 01.01.05)**:**
 
 ### Aufteilung der Ligen
 
-| Number of teams | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| A league | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
-| 1st round | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 |
-| 2nd round | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
-| 3rd round | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
-| Final | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| Total | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 |
-| B league 1 | 6 | 7 | 4 | 5 | 5 | 6 | 6 | 5 | 6 | 5 |
-| 1st round | 15 | 21 | 6 | 10 | 10 | 15 | 15 | 10 | 15 | 10 |
-| B league 2 | | | 4 | 4 | 5 | | | | | |
-| 1st round | | | 6 | 6 | 10 | | | | | |
-| B league ranking | | | 4 | 4 | 5 | | | | | |
-| C league 1 | | | | | | 5 | 6 | 4 | 4 | 5 |
-| 1st round | | | | | | 10 | 15 | 6 | 6 | 10 |
-| C league 2 | | | | | | | | 4 | 4 | 5 |
-| 1st round | | | | | | | | 6 | 6 | 10 |
-| Ranking | | | | | | | | 4 | 4 | 5 |
-| Promotion | | | | | | 1 | 1 | 1 | 1 | 1 |
-| **Grand total** | **36** | **42** | **37** | **41** | **46** | **47** | **52** | **48** | **53** | **57** |
-| Commissaires | 6 | 6 | 6 | 6 | 6 | 6 | 7 | 7 | 7 | 7 |
-| Games / Commissaire (Chief not included) | 6 | 6 | 6.2 | 7 | 7.7 | 7.8 | 7.5 | 7 | 7.5 | 8.1 |
+Die folgende Aufteilung gilt für Radball Frauen und Radball Männer.
+
+**Men Elite League (8 Teams):**
+
+| Spiele | Qualifikation | 2nd Round | Viertelfinals | Lucky Loser | Halbfinals | Spiel um Platz 9 | Spiel um Platz 7 | Spiel um Platz 5 | Final 4 | Spiel um Platz 3 | Final | Relegations-Spiel | Total |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 8 Teams | 12 | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 6 | 1 | 1 | 1 | 25 |
+
+**Challenger League:**
+
+| Teams | Qualifikation | 2nd Round | Viertelfinals | Lucky Loser | Halbfinals | Spiel um Platz 9 | Spiel um Platz 7 | Spiel um Platz 5 | Final 4 | Spiel um Platz 3 | Final | Relegations-Spiel | Total |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 3 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | | 0 | 1 | 0 | 0 | 6 |
+| 4 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | | 1 | 1 | 0 | 0 | 10 |
+| 5 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | | 0 | 0 | 0 | 0 | 10 |
+| 6 | 6 | 0 | 2 | 0 | 2 | 0 | 0 | 1 | 6 | 1 | 1 | 0 | 13 |
+| 7 | 7 | 1 | 2 | 0 | 2 | 0 | 0 | 1 | | 1 | 1 | 0 | 15 |
+| 8 | 12 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | | 1 | 1 | 0 | 16 |
+| 9 | 16 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | | 1 | 1 | 0 | 20 |
+| 10 | 20 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | | 1 | 1 | 0 | 25 |
+
+**Women Elite League:**
+
+| Teams | Qualifikation | 2nd Round | Viertelfinals | Lucky Loser | Halbfinals | Spiel um Platz 9 | Spiel um Platz 7 | Spiel um Platz 5 | Final 4 | Spiel um Platz 3 | Final | Relegations-Spiel | Total |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 3 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | | 0 | 1 | 0 | 0 | 5 |
+| 4 | 6 | 0 | 0 | 0 | 2 | 0 | 0 | | 1 | 1 | 0 | 0 | 10 |
+| 5 | 10 | 0 | 0 | 0 | 2 | 0 | 0 | | 1 | 1 | 0 | 0 | 14 |
+| 6 | 6 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 1 | 1 | 0 | 17 |
+| 7 | 9 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 1 | 1 | 0 | 20 |
+| 8 | 12 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 1 | 1 | 1 | 25 |
+
+### Format
+
+Die Zahl basiert auf dem Ergebnis der UCI Indoor Cycling-Weltmeisterschaften vom Vorjahr.
+
+**Gruppenauslosung:**
+
+| Gruppe I | Gruppe II |
+|----------|-----------|
+| 1 | 2 |
+| 4 | 3 |
+| 6 | 5 |
+| 8 | 7 |
+
+**Spielplan:**
+
+| Spiel | Team A | | Team B | Runde |
+|-------|--------|---|--------|-------|
+| 1 | 6 | : | 8 | Qualifikation |
+| 2 | 5 | : | 7 | Qualifikation |
+| 3 | 1 | : | 4 | Qualifikation |
+| 4 | 2 | : | 3 | Qualifikation |
+| 5 | 4 | : | 6 | Qualifikation |
+| 6 | 3 | : | 5 | Qualifikation |
+| 7 | 1 | : | 8 | Qualifikation |
+| 8 | 2 | : | 7 | Qualifikation |
+| 9 | 4 | : | 8 | Qualifikation |
+| 10 | 3 | : | 7 | Qualifikation |
+| 11 | 1 | : | 6 | Qualifikation |
+| 12 | 2 | : | 5 | Qualifikation |
+| 13 | 2A | : | 3B | 2te Runde |
+| 14 | 2B | : | 3A | 2te Runde |
+| 15 | 4A | : | 4B | Platz 7/8 |
+| 16 | L13 | : | L14 | Platz 5/6 |
+| 17 | L15 | : | Winner Challenger League | Relegation |
+| 18 | 1A | : | 1B | Final 4 |
+| 19 | W13 | : | W14 | Final 4 |
+| 20 | 1A | : | W14 | Final 4 |
+| 21 | 1B | : | W13 | Final 4 |
+| 22 | 1A | : | W14 | Final 4 |
+| 23 | 1B | : | W13 | Final 4 |
+| 24 | 2. Platz F4 | : | 3. Platz F4 | Bronze/Silber-Spiel |
+| 25 | 1. Platz F4 | : | W24 | Finalspiel |
 
 ### Weltmeisterschaftsmodus
 
-Neuer Modus: gültig ab 2015 UCI für Weltmeisterschaften
+Endet ein Spiel in den Runden vom Viertelfinal bis zum Halbfinale unentschieden, entscheidet ein 4-Meter-Schiessen. Endet das Spiel um Platz drei oder das Finale unentschieden, wird eine Verlängerung gespielt, gefolgt von einem 4-Meter-Schiessen, falls das Spiel nach der Verlängerung immer noch unentschieden steht.
 
-| 1st round | 2nd round | 3rd round | 1st half-final | 2nd half-final | Match 3rd place | Final |
-|-----------|-----------|-----------|----------------|----------------|-----------------|-------|
-| 1. | | | | Winners 1st round | Losers 1st half-final | Winners 1st half-final |
-| 2. | 2nd – 5th | Losers match 2. | Winners match 2. | | | |
-| 3. | 3rd – 4th | against | against | against | against | against |
-| 4. | | Losers match 3. | Winners match 3. | | | |
-| 5. | | | | Lucky looser | Losers 2nd half-final | Winners 2nd half-final |
-| 6. | | | | | | |
-| | | Lucky looser > 2nd half-final | Winners > Final | Winners > Final | | |
-| | | Losers > match for the 3rd place | Losers > match for the 3rd place | | | |
+---
 
-\*Entscheidung bei Unentschieden: Penalty shooting (in half-final and final: overtime then penalty shooting)
+## Anhang 4: UCI Radball-Weltcup
+
+### 1. Allgemeines
+
+a) Der UCI Radball-Weltcup ist exklusives Eigentum der UCI.
+
+b) Der UCI Radball-Weltcup besteht aus europäischen Qualifikationswettbewerben, mindestens einem asiatischen Qualifikationswettbewerb und einem UCI-Weltcup-Finale.
+
+c) UCI Radball-Weltcup-Veranstaltungen werden in der Alterskategorie Elite angeboten. Die Disziplin ist Radball.
+
+### 2. Teilnahme
+
+a) Die Teilnahmeberechtigung für die Vorrunden des UCI Radball-Weltcups wird anhand der UCI Radball-Rangliste und des höchstplatzierten Teams einer Nation bestimmt, gemäß folgender Tabelle:
+
+| UCI Radball-Rangliste (höchstplatziertes Team einer Nation) | Europäische Runden |
+|---|---|
+| Rang 1 bis 3 | 3 Teams (3 Runden) |
+| Rang 4 | 2 Teams (3 Runden) |
+| Rang 5 und 6 | 1 Team (3 Runden) |
+| Rang 7, 8 und 9 | 1 Team (1 Runde) |
+
+Wird die maximale Teilnehmerzahl von den teilnahmeberechtigten Nationalverbänden nicht ausgeschöpft, können sich weitere Nationalverbände, die keine oder nur eine Nennung haben, für die verfügbaren Plätze anmelden. In diesem Fall erhält ein Nationalverband maximal zwei Nennungen pro Disziplin. Die Beantragung weiterer Nennungen erfolgt mit der Anmeldung zur jeweiligen Vorrunde.
+
+Die Vergabe der zusätzlichen Nennungen erfolgt folgendermaßen:
+1. Nationale Verbände, die in der entsprechenden Disziplin noch keine reguläre Nennung haben, werden zunächst im Rahmen des Kontingents mit einem Platz berücksichtigt.
+2. Anschließend erhalten alle nationalen Verbände mit einer regulären Nennung einen zweiten Platz.
+3. Anschließend können die nationalen Verbände aus Punkt 1 einen zweiten Platz erhalten.
+4. Liegen mehr Anmeldungen als zusätzliche Plätze vor, ist das Eingangsdatum der Anmeldung entscheidend.
+
+b) Die Teams, welche nach den Qualifikations-Weltcup-Turnieren die Plätze 1 bis 6 belegen, qualifizieren sich für das Finale des UCI-Radball-Weltcups. Der Veranstalter des Finales erhält eine Wildcard, und das bestplatzierte asiatische Team qualifiziert sich ebenfalls für das Finale.
+
+c) Das Registrationsverfahren für Spieler und Teams wird von den Nationalverbänden gemäß Anforderung der UCI durchgeführt.
+
+### 3. Weltcup Ranking
+
+a) Die Weltcup-Rangliste wird auf Grundlage der von den einzelnen Teams erspielten Punkte gemäß der Punkteliste in Anhang 2 erstellt.
+
+b) Bei Punktegleichheit wird die Platzierung der Teams anhand der Einzelplatzierungen bei Weltcup-Veranstaltungen ermittelt. Bei Punktegleichheit und gleichen Einzelplatzierungen entscheidet die Einzelplatzierung einer UCI-Weltcup-Runde, an der beide Teams teilnahmen, über die Gesamtplatzierung.
+
+### 4. Organisation
+
+Das Kommissärsteam besteht aus vier internationalen UCI-Kommissären. Beim Finale des UCI-Radball-Weltcups wird ein weiterer internationaler UCI-Kommissär ernannt.
+
+### 5. Leadertrikot
+
+Die UCI vergibt bei jeder Veranstaltung der Serie ein Führungstrikot. Dieses Trikot darf nur bei UCI-Radball-Weltcup-Veranstaltungen getragen werden und bei keiner anderen Veranstaltung. Die Farben des Leadertrikots werden von der UCI festgelegt, ebenso wie weitere Details die in Artikel 1.3.005 bis geregelt sind.
+
+### 6. Turniermodus
+
+a) Bei einem UCI-Radball-Weltcup treten 8 Mannschaften nach folgendem Wettbewerbsmodell gegeneinander an. Jeder UCI-Radball-Weltcup besteht aus einer Vorrunde, einer zweiten Runde und einem Finale. Für die Vorrunde werden die Mannschaften in zwei Gruppen zu je 4 Mannschaften eingeteilt. Die Platzierung der Vorrunde wird wie folgt ermittelt:
+
+Die Gruppen werden auf Basis der UCI Radball-Rangliste der Vorsaison bestimmt.
+
+| Gruppe I | Gruppe II |
+|----------|-----------|
+| 1. der UCI-Rangliste | 2. der UCI-Rangliste |
+| 4. der UCI-Rangliste | 3. der UCI-Rangliste |
+| 6. der UCI-Rangliste | 5. der UCI-Rangliste |
+| 8. der UCI-Rangliste | 7. der UCI-Rangliste |
+
+Befinden sich 3 Teams derselben Nation in derselben Gruppe, wird das zweite Team mit dem erstmöglichen Team einer anderen Nation in der Reihenfolge der UCI-Rangliste getauscht.
+
+**Spielplan:**
+
+| Spiel | Team A | | Team B | Runde |
+|-------|--------|---|--------|-------|
+| 1 | 1. Rangliste | : | 8. Rangliste | Qualifikation |
+| 2 | 2. Rangliste | : | 7. Rangliste | Qualifikation |
+| 3 | 4. Rangliste | : | 6. Rangliste | Qualifikation |
+| 4 | 3. Rangliste | : | 5. Rangliste | Qualifikation |
+| 5 | 1. Rangliste | : | 6. Rangliste | Qualifikation |
+| 6 | 2. Rangliste | : | 5. Rangliste | Qualifikation |
+| 7 | 4. Rangliste | : | 8. Rangliste | Qualifikation |
+| 8 | 3. Rangliste | : | 7. Rangliste | Qualifikation |
+| | | | | Pause |
+| 9 | 1. Rangliste | : | 4. Rangliste | Qualifikation |
+| 10 | 2. Rangliste | : | 3. Rangliste | Qualifikation |
+| 11 | 6. Rangliste | : | 8. Rangliste | Qualifikation |
+| 12 | 5. Rangliste | : | 7. Rangliste | Qualifikation |
+| | | | | Finale |
+| 13 | 1A | : | 2B | Halbfinal |
+| 14 | 1B | : | 2A | Halbfinal |
+| 15 | 4A | : | 4B | Platz 7/8 |
+| 16 | 3A | : | 3B | Platz 5/6 |
+| 17 | L13 | : | L14 | Bronzespiel |
+| 18 | W13 | : | W14 | Goldspiel |
+
+Die erspielten Punkte sind ausschlaggebend für die Platzierung in der Vorrunde.
+
+Bei Punktegleichheit zwischen zwei oder mehreren Mannschaften wird die Platzierung durch eine interne Tabelle der betroffenen Mannschaften ermittelt. Bei Punkt- und Torgleichheit zwischen den Mannschaften wird die Platzierung durch ein 4-Meter-Schiessen ermittelt. Weitere Einzelheiten sind in den Artikeln 3.3 und 3.4 geregelt.
+
+b) Finalmodus:
+
+Bei einem Unentschieden in den Spielen um die Plätze 1 bis 4 entscheidet ein Entscheidungsspiel. Führt dieses Entscheidungsspiel zu einem Unentschieden, wird im 4-Meter-Schiessen entschieden. Bei einem Unentschieden in den Spielen um die Plätze 5 bis 8 wird im 4-Meter-Schiessen entschieden.
+
+### 7. UCI-Radball-Weltcup-Final
+
+Die Gruppeneinteilung für die Vorrunde beim UCI-Radball-Weltcupfinal erfolgt gemäß der aktuellen UCI-Weltcup-Rangliste wie folgt:
+
+| Gruppe I | Gruppe II |
+|----------|-----------|
+| Rang 1 | Rang 2 |
+| Rang 4 | Rang 3 |
+| Rang 5 | Rang 6 |
+| Wildcard | asiatisches Team |
+
+Wenn sich zwei Teams aus derselben Nation für das Finale qualifizieren, werden sie in unterschiedliche Gruppen eingeteilt.
+
+### 8. Frauen
+
+Bei einem UCI Radball-Weltcup der Frauen treten 6 Mannschaften in einer Qualifikationsrunde gegeneinander an. Jeder UCI Radball-Weltcup der Frauen besteht aus einer Vorrunde, Halbfinals und einem Finale.
+
+Befinden sich 2 Teams derselben Nation in derselben Gruppe, wird das zweite Team mit dem erstmöglichen Team einer anderen Nation in der Reihenfolge der UCI-Rangliste getauscht.
+
+Die Reihenfolge der Teams wird durch die UCI-Rangliste einen Monat vor dem Wettbewerb bestimmt.
+
+| Gruppe I | Gruppe II |
+|----------|-----------|
+| 1. der UCI-Rangliste | 2. der UCI-Rangliste |
+| 4. der UCI-Rangliste | 3. der UCI-Rangliste |
+| 5. der UCI-Rangliste | 6. der UCI-Rangliste |
+
+**Spielplan:**
+
+| Spiel | Team A | | Team B | Runde |
+|-------|--------|---|--------|-------|
+| 1 | 1. Rangliste | : | 5. Rangliste | Qualifikation |
+| 2 | 2. Rangliste | : | 6. Rangliste | Qualifikation |
+| 3 | 4. Rangliste | : | 5. Rangliste | Qualifikation |
+| 4 | 3. Rangliste | : | 6. Rangliste | Qualifikation |
+| 5 | 1. Rangliste | : | 4. Rangliste | Qualifikation |
+| 6 | 2. Rangliste | : | 3. Rangliste | Qualifikation |
+| | | | | |
+| 7 | 2A | : | 3B | Viertelfinal |
+| 8 | 2B | : | 3A | Viertelfinal |
+| | | | | |
+| 9 | L7 | : | L8 | Platz 5/6 |
+| | | | | |
+| 10 | 1A | : | W8 | Halbfinal |
+| 11 | 1B | : | W7 | Halbfinal |
+| | | | | |
+| 12 | L10 | : | L11 | Bronzespiel |
+| 13 | W10 | : | W11 | Finalspiel |
