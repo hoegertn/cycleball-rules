@@ -1,0 +1,171 @@
+#!/bin/bash -e
+
+# md2pdf - Convert Markdown to PDF
+# Uses pandoc (Markdown → HTML) + weasyprint (HTML+CSS → PDF)
+
+# Resolve paths
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+INPUT_FILE="$REPO_ROOT/cycle-ball.md"
+OUTPUT_FILE="$REPO_ROOT/cycle-ball.pdf"
+YEAR=$(date +%Y)
+
+# Check dependencies
+for cmd in pandoc weasyprint; do
+    if ! command -v "$cmd" &>/dev/null; then
+        echo "Error: $cmd is not installed"
+        case "$cmd" in
+            pandoc) echo "  Install: brew install pandoc" ;;
+            weasyprint) echo "  Install: pip install weasyprint" ;;
+        esac
+        exit 1
+    fi
+done
+
+# Convert Markdown to HTML fragment
+HTML_BODY=$(pandoc --from gfm --to html5 --wrap=none --syntax-highlighting=tango "$INPUT_FILE")
+
+# Create temporary HTML file
+TMPHTML=$(mktemp /tmp/md2pdf.XXXXXX.html)
+trap 'rm -f "$TMPHTML"' EXIT
+
+# Write HTML head with CSS (variables expanded)
+cat > "$TMPHTML" << HTMLEOF
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+@page {
+    size: A4;
+    margin: 15mm 15mm 22mm 15mm;
+    
+    @bottom-left {
+        content: "\00a9  ${YEAR}";
+        font-size: 8pt;
+        font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+        color: #000;
+        vertical-align: middle;
+    }
+
+    @bottom-right {
+        content: "Page " counter(page) " of " counter(pages);
+        font-size: 8pt;
+        font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+        color: #000;
+        vertical-align: middle;
+    }
+}
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 10pt;
+    line-height: 1.3;
+    color: #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    margin-top: 0.8em;
+    margin-bottom: 0.3em;
+}
+
+h1 {
+    font-size: 20pt;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.2em;
+}
+
+h2 { font-size: 15pt; }
+h3 { font-size: 12pt; }
+h4 { font-size: 11pt; }
+
+a {
+    color: #000;
+    text-decoration: underline;
+}
+
+code {
+    background: #eee;
+    padding: 0.1em 0.3em;
+    border-radius: 2px;
+    font-size: 0.9em;
+}
+
+pre {
+    background: #eee;
+    padding: 0.6em;
+    border-radius: 2px;
+    overflow: hidden;
+    border-left: 2px solid #000;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0.5em 0;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 0.25em 0.5em;
+    text-align: left;
+}
+
+th {
+    background: #000;
+    color: #fff;
+    font-weight: 600;
+}
+
+blockquote {
+    border-left: 3px solid #000;
+    margin: 0.5em 0;
+    padding: 0.3em 0.8em;
+    color: #333;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #000;
+    margin: 1em 0;
+}
+
+img { max-width: 100%; }
+
+ul, ol {
+    margin: 0.3em 0;
+}
+
+p {
+    margin: 0.4em 0;
+}
+
+ul.task-list {
+    list-style: none;
+    padding-left: 1.5em;
+}
+
+</style>
+</head>
+<body>
+HTMLEOF
+
+# Append pandoc HTML body (no shell expansion)
+printf '%s' "$HTML_BODY" >> "$TMPHTML"
+
+# Append closing tags
+cat >> "$TMPHTML" << 'HTMLEOF'
+</body>
+</html>
+HTMLEOF
+
+# Convert to PDF
+weasyprint "$TMPHTML" "$OUTPUT_FILE"
+
+echo "Created: $OUTPUT_FILE"
