@@ -1,6 +1,6 @@
 # UCI - CCS Internationales Reglement für Zweier-Radball
 
-Gültig ab 01. Januar 2026
+Gültig ab 01. Januar 2027
 
 - **UCI** — Union Cycliste Internationale
 - **CCS** — UCI - Commission de Cyclisme en Salle / UCI - Hallenradsport-Kommission
@@ -267,10 +267,18 @@ Das Abprallen des Balles vom Rad oder Körper eines Spielers ist daher als gült
 c) Das Behindern des Gegners (absichtliches Anfahren, Stoßen, Festhalten oder Anfassen), das Stützen an den Torpfosten oder eine Wand, das Abstützen des Mitspielers mit den Händen oder dem Körper, lautes Rufen (innerhalb der Mannschaft, vom und zum Betreuer, gegenüber dem Gegner oder anderen Personen), Reklamieren (gegenüber dem Partner, Gegner, Kommissär, Kampfgericht, Betreuer oder Zuschauer) gelten als Verstöße gegen die Regeln und werden bestraft.  
 Bewegt sich ein Spieler der angreifenden Mannschaft, ohne den Ball zu besitzen, aktiv in den direkten Weg des Verteidigers, der in Richtung Ball fährt und behindert diesen dadurch, liegt ein Sperren vor, das zu einem Freischlag führt.
 
+Sperren bedeutet, dass der nicht ballführende Angreifer den Verteidiger daran hindert, an den Ball zu kommen. Dabei gilt:
+
+1. Nähe: Der Verteidiger muss den nicht ballführenden Angreifer erreichen können.
+2. Richtung: Der Verteidiger muss mit seinem Vorderrad auf den Ball zeigen.
+3. Bewegung: Im Moment des Sperrens müssen beide Spieler in Bewegung sein.
+
 d) Es darf immer nur der Ball und nicht der Gegner oder dessen Rad angegriffen werden. Ein Spieler, der den Ball neben seinem Rad hat, darf demnach nur von der Ballseite her angegriffen werden.
 
 e) Der Ball darf innerhalb des Spielfeldes, sowie an der Spielfeldeinfassung nicht unnötig lange blockiert oder an der Bande vor- und zurückgespielt werden, sofern es der Gegner nicht selbst erzwingt.
 Wenn ein Spieler ohne Behinderung durch den Gegner nach Aufforderung durch den Kommissär nicht weiterspielt, liegt ein Regelverstoß vor.
+
+Fährt ein Spieler absichtlich in die Bande, um sich einen klaren Vorteil zu verschaffen, gilt diese Verbreiterung des Spielfeldes als Regelverstoß und wird mit einem Freischlag geahndet.
 
 f) Verfängt sich der Ball im Rad oder am Körper eines Spielers, ist auf Neutralball zu entscheiden.
 
@@ -291,8 +299,9 @@ Nach einem Tor hat immer die Mannschaft Anspiel, die das Tor erhalten hat.
 
 a) Der Ball ist bei Beginn des Spieles, nach dem Seitenwechsel und nach jedem gültigen Tor auf den Mittelpunkt zu legen.
 
-b) Bei Spielbeginn in der 1. und 2. Halbzeit, sowie nach einem Tor können sich die Spieler im ganzen Spielfeld aufhalten, außer im gegnerischen Strafraum und im Mittelkreis.
-Nach dem Anpfiff dürfen die angreifenden Spieler in den Mittelkreis zum Ball fahren und anspielen. Der Ball kann vom Anspielenden mehrmals berührt werden.
+b) Bei Spielbeginn in der 1. und 2. Halbzeit, sowie nach einem Tor können sich die verteidigenden Spieler im ganzen Spielfeld aufhalten, außer im gegnerischen Strafraum und im Mittelkreis.
+Die angreifenden Spieler können sich im ganzen Spielfeld aufhalten, außer im gegnerischen Strafraum, da dies als Abseits gilt.
+Nach dem Anpfiff dürfen die angreifenden Spieler den Ball anspielen. Der Ball kann vom Anspielenden mehrmals berührt werden.
 Der Verteidiger darf den Mittelkreis erst befahren, wenn der Ball vom Angreifer berührt wurde.
 
 c) Befindet sich beim Anspiel (Zeitpunkt der Ballberührung) ein Spieler der Gegenpartei im Mittelkreis, so führt dies zu einem Freischlag auf der Stelle des Mittelkreises, die dem gegnerischen Tor am nächsten liegt.
@@ -337,8 +346,8 @@ Ein gegebener Vorteil kann innerhalb derselben Spielsituation zurückgenommen we
 
 a) Ist ein Spieler während der Dauer des Spieles (abgesehen von Spielunterbrechungen oder Halbzeitpause) gestürzt, berührt er den Boden, stützt er sich auf einen Spieler, gegen eine Wand, auf die Spielfeldeinfassung, auf den Ball oder gegen das Tor, so ist er von dem Moment an nicht mehr spielberechtigt.
 
-b) Um die Spielberechtigung wieder zu erlangen, muss der betreffende Spieler sofort hinter seine Torauslinie fahren oder laufen und auf der gleichen Seite wieder ins Spielfeld zurückfahren.
-Dabei muss er mit einem Rad die Torauslinie außerhalb des Strafraumes überfahren, damit er wieder spielberechtigt ist.
+b) Um die Spielberechtigung wieder zu erlangen, muss der betreffende Spieler sofort hinter seine Torauslinie fahren oder laufen.
+Dabei muss er mit einem Rad die Torauslinie außerhalb des Strafraumes überqueren. Er muss auf der gleichen Seite des Tores wieder ins Spielfeld zurückfahren, um spielberechtigt zu bleiben.
 
 c) Stört ein abgekommener Spieler die Spielentwicklung durch Liegen- oder Stehen bleiben, durch Abdecken oder Halten eines Gegners oder berührt er den Ball in der Absicht, dem Gegner einen Nachteil zu verschaffen, gilt dies als Regelverstoß.
 
@@ -453,7 +462,7 @@ Folgende Regelverstöße außerhalb des eigenen Strafraumes führen zu einem 4-M
 
 1. Wenn ein Spieler einen Gegenspieler durch einen rücksichtslosen Regelverstoß, ohne die Möglichkeit, den Ball zu spielen, foult, um dadurch einen möglichen Torerfolg zu verhindern. (zB: Foulspiel am nicht-ballführenden Spieler)
 
-2. Wenn ein nicht mehr spielberechtigter Spieler bewusst den „sicheren Stand" verlässt und einen Gegenspieler oder den Ball durch gehen, laufen, springen oder fahren behindert oder zurückhält. Das gleiche gilt bei einem Regelverstoß mit dem Rad.
+2. Wenn ein nicht mehr spielberechtigter Spieler einen Gegenspieler oder den Ball aufhält, indem er absichtlich seinen sicheren Stand verlässt. Der sichere Stand gilt als verlassen, wenn der Spieler absichtlich beide Füße von ihrer ursprünglichen Position wegbewegt. Den Gegenspieler oder den Ball mit dem Rad aufzuhalten, ist nur erlaubt, wenn sich eine Hand am Lenker befindet.
 
 3. Absichtliches Handspiel außerhalb des Strafraums.
 
@@ -461,7 +470,7 @@ Folgende Regelverstöße außerhalb des eigenen Strafraumes führen zu einem 4-M
 
 5. Wenn sich ein Spieler vom Rad trennt und absichtlich den Ball festhält, abwehrt oder den Gegner behindert.
 
-6. Wenn ein Spieler einschussbereit vor dem leeren gegnerischen Tor gefoult wird.
+6. Wenn ein Spieler, der den Ball neben seinem Vorderrad hat, einschussbereit vor dem leeren gegnerischen Tor vom Gegner behindert wird.
 
 c) Beim 4-Meter Ball haben sich außer dem Torverteidiger und dem Schießenden alle Spieler hinter der 4-Meter Ballmarke aufzuhalten. Nach Anpfiff muss der Ball direkt auf das Tor geschossen werden. Die beiden unbeteiligten Spieler dürfen hierbei in keiner Weise, störend oder täuschend beteiligt sein.
 Der Gegenspieler muss einen Abstand von 4 Meter zum 4-Meter Punkt einhalten und darf sich nur auf der gegenüberliegenden Spielfeldseite zur Anfahrtsstrecke des Schützen aufhalten. Die beiden nicht beteiligten Spieler dürfen erst nach dem Berühren des Balles wieder ins Spiel eingreifen.
